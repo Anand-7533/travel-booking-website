@@ -1,5 +1,5 @@
 
-# Travel School - Travel Booking Website
+#  Travel Booking Website
 
 Welcome to **Travel School**, a responsive travel booking website designed to provide users with an easy and attractive platform to explore and book travel destinations. This template offers sections for promotions, popular destinations, and contact details. It can be customized and expanded with additional features, such as a booking system and user reviews.
 
